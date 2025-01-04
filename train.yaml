@@ -1,0 +1,13 @@
+train: /contend/Datasets2/imagenes/train
+val: /contend/Datasets2/imagenes/val
+test: test-dev2017.txt # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+names:
+  0: carton
+  1: metal
+  2: paper
+  3: plastico
+  4: vidrio
+
+  

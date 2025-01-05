@@ -3,6 +3,9 @@ import cv2
 import numpy as np
 import pathlib
 
+#La version de python con la que se trabajo para que el proyecto diera en marcha
+# fue la 3.8.10
+
 # Ajustes necesarios
 pathlib.PosixPath = pathlib.WindowsPath
 
